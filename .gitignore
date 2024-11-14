@@ -1,0 +1,5 @@
+cypress/fixtures/*
+cypress/node_modules
+node_modules/
+migration.tar.gz*
+.env
